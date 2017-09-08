@@ -1,6 +1,6 @@
 # How To Install YAD2KP
 
-- Clone this repository ( ).
+- Clone this repository (git clone https://github.com/swordarkors/yad2kp.git).
 - Move yad2kp to your packages directory.
 
 --------------------------------------------------------------------------------
