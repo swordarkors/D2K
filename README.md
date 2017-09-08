@@ -1,3 +1,10 @@
+# How To Install YAD2KP
+
+- Clone this repository ( ).
+- Move yad2kp to your packages directory.
+
+--------------------------------------------------------------------------------
+
 # YAD2K: Yet Another Darknet 2 Keras
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
